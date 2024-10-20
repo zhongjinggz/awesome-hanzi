@@ -44,10 +44,14 @@
 
 
 ## 部首
+- 国标《汉字部首表》[官网](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75694.html) / 
+                 [维基百科](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E9%83%A8%E9%A6%96%E8%A1%A8#cite_note-1) /
+                 [可编辑版](https://github.com/zhongjinggz/hanzi-wanyi/tree/main/%E9%83%A8%E9%A6%96)
 - [部首手冊(台灣教育部)](https://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/BUSHOU/F3.HTML)
 
 ## 部件
-- [GF3001-1997](https://github.com/asgsdbrseg/GF3001-1997): 信息处理用GB13000.1字符集汉字部件规范GF3001-1997, 其中包含了规范的可编辑文本，很难得。
+- GF3001-1997 信息处理用GB13000.1字符集汉字部件规范[官网](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75616.html) /
+  [可编辑版](https://github.com/asgsdbrseg/GF3001-1997)
 - [字浩输入法字根字体PUA](https://yuhao.forfudan.com/docs/yuniversus.html) 
 
 ## 拆分
