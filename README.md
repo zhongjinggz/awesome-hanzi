@@ -43,6 +43,13 @@
 - [次常用國字標準字體表(台灣)](https://github.com/ButTaiwan/cjktables/blob/master/taiwan/edu_standard_2.txt):  6,343字 
 
 
+## 字词频
+
+- [25亿字语料汉字字频表-邢红兵](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm)
+- ["现代汉语研究语料库系统"词类频率表-邢红兵](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1440.htm#article)
+
+
+
 ## 部首
 - 国标《汉字部首表》[官网](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75694.html) / 
                  [维基百科](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E9%83%A8%E9%A6%96%E8%A1%A8#cite_note-1) /
@@ -103,3 +110,12 @@
 
 
 
+## 待整理
+https://github.com/iDvel/rime-ice
+https://ai.tencent.com/ailab/nlp/en/embedding.html
+https://github.com/outloudvi/mw2fcitx
+https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E9%9F%B3%E8%8A%82%E5%88%97%E8%A1%A8
+原自然码码表 https://www.bilibili.com/read/cv18963924/
+说文部首 http://www.homeinmists.com/shuowen/540.htm https://zh.wikipedia.org/wiki/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%E9%83%A8%E9%A6%96%E5%88%97%E8%A1%A8
+邢红兵 https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/list/index.htm
+汉语拼音音节表 https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E9%9F%B3%E8%8A%82%E5%88%97%E8%A1%A8
