@@ -10,7 +10,7 @@
 - [Preliminary proposal to add a new provisional kIDS property (Unihan)](https://www.unicode.org/L2/L2021/21118-kids-preliminary.pdf)：关于增加IDC和部件字符的提案 
 
 
-## 在线字典和综合汉字信息
+## 在线字典
 - [汉典](https://www.zdic.net/) 
 
 - [小学堂](https://xiaoxue.iis.sinica.edu.tw/)
@@ -92,6 +92,8 @@
 
 
 ## 字体
+- [BabelStone Han](https://babelstone.co.uk/Fonts/Han.html) 
+- [BabelStone Han PUA](https://babelstone.co.uk/Fonts/PUA.html)
 - [國字標準字體(台灣教育部)](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436)
 
 
@@ -108,6 +110,9 @@
 - [MNBVC](https://github.com/esbatmop/MNBVC?tab=readme-ov-file): 超大规模中文语料集
 
 
+## 综合
+
+- [BabelStone](https://babelstone.co.uk/index.html)
 
 
 ## 待整理
@@ -119,3 +124,4 @@ https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E9%9F%B3%E8%8
 说文部首 http://www.homeinmists.com/shuowen/540.htm https://zh.wikipedia.org/wiki/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%E9%83%A8%E9%A6%96%E5%88%97%E8%A1%A8
 邢红兵 https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/list/index.htm
 汉语拼音音节表 https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E9%9F%B3%E8%8A%82%E5%88%97%E8%A1%A8
+https://github.com/asgsdbrseg/cjk_split
